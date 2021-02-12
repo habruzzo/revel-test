@@ -11,3 +11,11 @@ type App struct {
 func (c App) Index() revel.Result {
 	return c.Render()
 }
+
+func (c App) TicTacToe() revel.Result {
+	return c.Render()
+}
+
+func (c App) BookStore() revel.Result {
+	return c.Render()
+}

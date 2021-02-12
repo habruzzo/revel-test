@@ -9,6 +9,9 @@ module:testrunner
 
 GET     /                                       App.Index
 
+GET     /tictactoe/                             App.TicTacToe
+GET     /books/                                 App.BookStore
+
 # Ignore favicon requests
 GET     /favicon.ico                            404
 

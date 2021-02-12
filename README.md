@@ -1,6 +1,5 @@
 # revel-test
 
-
 DOCS: https://revel.github.io/manual/index.html
 github link github.com/habruzzo/revel-test/
 
