@@ -1,4 +1,5 @@
 # revel-test
+sorry about the formatting in github, if you read it as a normal text file it has better formatting
 
 DOCS: https://revel.github.io/manual/index.html
 github link github.com/habruzzo/revel-test/
