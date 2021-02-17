@@ -6,11 +6,14 @@
 module:testrunner
 # module:jobs
 
+# MY CODE HERE
+#module:static
 
 GET     /                                       App.Index
 
-GET     /tictactoe/                             App.TicTacToe
-GET     /books/                                 App.BookStore
+# MY CODE HERE
+GET     /tictactoe/                             TicTacToe.Index
+GET     /books/                                 BookStore.Index
 
 # Ignore favicon requests
 GET     /favicon.ico                            404
